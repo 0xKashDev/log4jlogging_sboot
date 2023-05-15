@@ -1,0 +1,10 @@
+2023-May-14 20:05:09 PM [main] INFO  kashdev.log4jlogging.Log4jloggingApplicationTests - Starting Log4jloggingApplicationTests using Java 20.0.1 with PID 40100 (started by darkven0m in C:\Users\18625\Desktop\KadeemBobcombe\SPRINGBOOT\log4jlogging)
+2023-May-14 20:05:09 PM [main] DEBUG kashdev.log4jlogging.Log4jloggingApplicationTests - Running with Spring Boot v3.0.6, Spring v6.0.8
+2023-May-14 20:05:09 PM [main] INFO  kashdev.log4jlogging.Log4jloggingApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-May-14 20:05:09 PM [main] DEBUG org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@5560bcdf
+2023-May-14 20:05:10 PM [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-May-14 20:05:10 PM [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - 6 mappings in 'requestMappingHandlerMapping'
+2023-May-14 20:05:10 PM [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-May-14 20:05:10 PM [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-May-14 20:05:10 PM [main] INFO  kashdev.log4jlogging.Log4jloggingApplicationTests - Started Log4jloggingApplicationTests in 1.443 seconds (process running for 2.801)
+2023-May-14 20:05:11 PM [SpringApplicationShutdownHook] DEBUG org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@5560bcdf, started on Sun May 14 20:05:09 EDT 2023
